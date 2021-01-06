@@ -12,14 +12,14 @@ These instructions will get you a copy of the project up and run on your local m
 **Install with:**
 
 ```
-npm install --save zalo-sdk
+npm install --save lcs-zalo-sdk
 ```
 
 **And import to your project:**
 
 ```js
 // Using require() in ES5 
-var Zalo = require('zalo-sdk');
+var Zalo = require('lcs-zalo-sdk');
 ```
 
 ## Use Social API
@@ -30,7 +30,7 @@ Click to view [Zalo Developer Documentation For Open API](https://developers.zal
 
 **Create an instance of the ZaloSocial class**
 ```js
-var ZaloSocial = require('zalo-sdk').ZaloSocial;
+var ZaloSocial = require('lcs-zalo-sdk').ZaloSocial;
 
 var zsConfig = {
 	appId: '1131677296116040198',
@@ -110,7 +110,7 @@ Click to view [Zalo Developer Documentation For Official Account Open API](https
 
 **Create an instance of the ZaloOA class**
 ```js
-var ZaloOA = require('zalo-sdk').ZaloOA;
+var ZaloOA = require('lcs-zalo-sdk').ZaloOA;
 
 var zaConfig = {
 	oaid: '2491302944280861639',
