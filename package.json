@@ -6,7 +6,7 @@
   "homepage": "https://github.com/DyPham/lcs-zalo-sdk",
   "repository": {
     "type": "git",
-    "url": "https://github.com/DyPham/lcs-zalo-sdk"
+    "url": "git+https://github.com/DyPham/lcs-zalo-sdk.git"
   },
   "scripts": {
     "lint": "eslint .",
@@ -48,5 +48,11 @@
   },
   "engines": {
     "node": ">=4"
+  },
+  "bugs": {
+    "url": "https://github.com/DyPham/lcs-zalo-sdk/issues"
+  },
+  "directories": {
+    "lib": "lib"
   }
 }
