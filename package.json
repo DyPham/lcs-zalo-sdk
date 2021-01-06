@@ -17,10 +17,9 @@
   },
   "keywords": [
     "zalo sdk",
-    "zalo sdk nodejs",
-    "open api"
+    "zalo sdk nodejs"
   ],
-  "author": "tungnt",
+  "author": "DuyPham",
   "license": "ISC",
   "dependencies": {
     "any-promise": "^1.3.0",
