@@ -1,6 +1,6 @@
 {
   "name": "lcs-zalo-sdk",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "ZALO NodeJS sdk",
   "main": "./lib/index.js",
   "directories": {
